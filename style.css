@@ -3,7 +3,7 @@ body {
 }
 
 .cabeçalho {
-background-color: antiquewhite;
+background-color: rgb(233, 64, 34);
 color:black;
 display: flex;
 justify-content: space-around;
